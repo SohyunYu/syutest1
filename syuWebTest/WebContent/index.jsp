@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-정신 바짝 차립시다!
-오늘 점심때 즐해장~~~
+정신 바짝 차립시다
 </body>
 </html>
